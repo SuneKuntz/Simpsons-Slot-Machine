@@ -11,8 +11,8 @@ This program was made in order to learn the Python modul "Pygame". It was made o
 <br><br>
 <h2>How to run</h2>
 In order to run the program, you'll need:<br>
-<li>
-  Python 3 IDE
-  PyGame Module
-  Windows, Mac, or a Linux distribution
-</li>
+<ol>
+  <il>Python 3 IDE</il>
+  <il>PyGame Module</il>
+  <il>Windows, Mac, or a Linux distribution</il>
+</ol>
