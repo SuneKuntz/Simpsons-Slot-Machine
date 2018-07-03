@@ -1,8 +1,8 @@
 # Simpsons-Slot-Machine
 Creator: Sune Kuntz <br>
 Instagram: https://www.instagram.com/sunekuntz <br>
+LinkedIn: https://www.linkedin.com/in/sunekuntz <br>
 Website: https://www.sunekuntz.dk <br><br>
-
 
 A Simpsons themed slot machine program for Raspberry Pi. Written in Python.3 using the Pygame module. <br>
 
@@ -12,7 +12,7 @@ This program was made in order to learn the Python modul "Pygame". It was made o
 <h2>How to run</h2>
 In order to run the program, you'll need:<br>
 <li>
-  Python 3 IDE<br>
-  PyGame Module<br>
+  Python 3 IDE
+  PyGame Module
   Windows, Mac, or a Linux distribution
-</li><br>
+</li>
