@@ -16,3 +16,12 @@ In order to run the program, you'll need:<br>
   <li>PyGame Module</li>
   <li>Windows, Mac, or a Linux distribution</li>
 </ul>
+
+<br>
+<h2>How to play:</h2>
+Use the number keys 1,2, and 3 to bet 10, 50, and 100 credits respectively.<br>
+Use the nu,ber keys 4, 5, and 6 to play on playlines 1,2, and 3 respectively.
+
+<br>
+<h2>Known Issues</h2>
+This is far from a finished program so bugs and missing features are a guarantee!<br>
