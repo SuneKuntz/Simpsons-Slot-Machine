@@ -18,7 +18,8 @@ In order to run the program, you'll need:<br>
 <br>
 <h2>How to play:</h2>
 Use the number keys 1,2, and 3 to bet 10, 50, and 100 credits respectively.<br>
-Use the nu,ber keys 4, 5, and 6 to play on playlines 1,2, and 3 respectively.
+Use the nu,ber keys 4, 5, and 6 to play on playlines 1,2, and 3 respectively. <br>
+To spin the wheels, press the arrow-down key.
 
 <br>
 <h2>Known Issues</h2>
