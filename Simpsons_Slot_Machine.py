@@ -95,12 +95,12 @@ wheel = pygame.image.load('graphics/wheel.png').convert()
 wheel = pygame.transform.scale(wheel, (300, 1040))
 
 #Pygame function: create a variable, and within that variable an image is loaded
-left_ui = pygame.image.load('left_ui.png').convert()
+left_ui = pygame.image.load('graphics/left_ui.png').convert()
 #Scales the image
 left_ui = pygame.transform.scale(left_ui, (380, 1050))
 
 #Pygame function: create a variable, and within that variable an image is loaded
-right_ui = pygame.image.load('right_ui.png').convert()
+right_ui = pygame.image.load('graphics/right_ui.png').convert()
 #Scales the image
 right_ui = pygame.transform.scale(right_ui, (380, 1050))
 
@@ -112,8 +112,8 @@ right_ui = pygame.transform.scale(right_ui, (380, 1050))
 #///////////////////////////////////////////////////////////////////////////// Game Sounds Here\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\#
 
 #Import sound file
-doh = pygame.mixer.Sound("doh.wav")
-wohoo = pygame.mixer.Sound("wohoo.wav")
+doh = pygame.mixer.Sound("sounds/doh.wav")
+wohoo = pygame.mixer.Sound("sounds/wohoo.wav")
 
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Game sounds Here ///////////////////////////////////////////////////////////////////////////////////////#
 #\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\//////////////////////////////////////////////////////////////////////////////////////////////////#
